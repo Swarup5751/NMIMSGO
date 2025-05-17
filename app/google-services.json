@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791749015769",
+    "project_id": "nmimsgo-3b7d4",
+    "storage_bucket": "nmimsgo-3b7d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791749015769:android:f87b46425e38f4f303e6c8",
+        "android_client_info": {
+          "package_name": "com.example.nmimsgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZTa0Psr3bSe80OpuRlw6Fal_FdHr5Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

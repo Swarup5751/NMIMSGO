@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@color/tin"
+    tools:context=".Weatheractivity">
+
+    <!-- Lecture -->
+    <TextView
+        android:id="@+id/tvLectureLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Lecture Room"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autoLecture"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Search Lecture Room"
+        android:textColorHint="#888"
+        android:textColor="#000"
+        app:layout_constraintTop_toBottomOf="@id/tvLectureLabel"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/btnFindLecture"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Find Lecture Room"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#6200EE"
+        app:layout_constraintTop_toBottomOf="@id/autoLecture"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/lectureRoomInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/btnFindLecture"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Lab -->
+    <TextView
+        android:id="@+id/tvLabLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Find Lab Room"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/lectureRoomInfo"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <AutoCompleteTextView
+        android:id="@+id/autoLab"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="Search Lab Room"
+        android:textColorHint="#888"
+        android:textColor="#000"
+        app:layout_constraintTop_toBottomOf="@id/tvLabLabel"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/btnFindLab"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Find Lab Room"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#6200EE"
+        app:layout_constraintTop_toBottomOf="@id/autoLab"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/labRoomInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/btnFindLab"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Faculty -->
+    <Spinner
+        android:id="@+id/facultySpinner"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#000000"
+        app:layout_constraintTop_toBottomOf="@id/labRoomInfo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnFindFaculty"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Find Faculty"
+        android:textColor="@android:color/white"
+        android:backgroundTint="#6200EE"
+        app:layout_constraintTop_toBottomOf="@id/facultySpinner"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/facultyRoomInfo"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:textSize="18sp"
+        app:layout_constraintTop_toBottomOf="@id/btnFindFaculty"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>
