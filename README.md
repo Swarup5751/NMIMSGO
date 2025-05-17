@@ -1,0 +1,1 @@
+A Navigation app for  large campuses, finding the right lecture rooms, labs, or faculty offices can be confusing – especially for new students. NMIMS GO solves this by offering an intuitive, interactive guide tailored specifically for the MPSTME Shirpur community.
