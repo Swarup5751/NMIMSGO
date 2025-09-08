@@ -39,5 +39,13 @@ NMIMSGo simplifies campus life by putting all essential information in one app. 
 ---
 
 ## 🖼 Screenshots
-![WhatsApp Image 2025-09-08 at 11 23 09_24887a63](https://github.com/user-attachments/assets/24fe1fbe-fbd0-4cf5-974f-8146e2dba91c)
+<p align="center">
+  <img src="![WhatsApp Image 2025-09-08 at 11 23 09_c2d380cf](https://github.com/user-attachments/assets/5285a49b-2ae8-4f14-8afe-0c5dc2ac5e0b)
+" alt="Home" width="250"/>
+  <img src="![WhatsApp Image 2025-09-08 at 11 23 10_a2d22049](https://github.com/user-attachments/assets/a06de13f-e943-4830-8d51-1d3618a95762)
+" alt="Menu" width="250"/>
+  <img src="![WhatsApp Image 2025-09-08 at 11 23 10_3019a083](https://github.com/user-attachments/assets/56188792-264a-47ce-a4b0-1bce4a4fbad6)
+" alt="Map" width="250"/>
+</p>
+
 
