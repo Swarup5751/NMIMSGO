@@ -39,13 +39,18 @@ NMIMSGo simplifies campus life by putting all essential information in one app. 
 ---
 
 ## 🖼 Screenshots
+## 📸 Screenshots  
+
 <p align="center">
-  <img src="![WhatsApp Image 2025-09-08 at 11 23 09_c2d380cf](https://github.com/user-attachments/assets/5285a49b-2ae8-4f14-8afe-0c5dc2ac5e0b)
-" alt="Home" width="250"/>
-  <img src="![WhatsApp Image 2025-09-08 at 11 23 10_a2d22049](https://github.com/user-attachments/assets/a06de13f-e943-4830-8d51-1d3618a95762)
-" alt="Menu" width="250"/>
-  <img src="![WhatsApp Image 2025-09-08 at 11 23 10_3019a083](https://github.com/user-attachments/assets/56188792-264a-47ce-a4b0-1bce4a4fbad6)
-" alt="Map" width="250"/>
+  <img src="https://github.com/user-attachments/assets/dfc6b141-5b32-4041-bfa1-971c5ae10fef" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/e1ae6004-7d01-46ee-81e2-6735cc811814" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1030c9ad-e496-4b59-bc36-30cc7a6e0053" alt="Screenshot 3" width="200"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d937805-723a-44a2-a66c-6a4d77eda5d3" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/d36ecae9-4bce-46dd-a66a-e569ea9d5e4c" alt="Screenshot 5" width="200"/>
+</p>
+
 
 
